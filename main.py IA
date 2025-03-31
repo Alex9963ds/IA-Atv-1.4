@@ -19,3 +19,7 @@ if __name__ == "__main__":
             print(f"Resultado: {numero}! = {resultado}")
     except ValueError:
         print("Erro: Por favor, digite um número inteiro válido.")
+
+
+
+*Código Python que calcula o fatorial de um número usando recursão, em https://www.online-python.com/
